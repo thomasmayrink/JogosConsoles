@@ -1,5 +1,5 @@
- class A {
+ class B {
  public static void main(String args[]){
-     System.out.println("Bye World");
+     System.out.println("hello World");
  }
 }
