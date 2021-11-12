@@ -1,6 +1,6 @@
 public class FileB {
-	FileA fileA;
-
+	FileA fileE;
+//vamo ver se isso vai da conflito
 	public void methodX(){
 	}
 
