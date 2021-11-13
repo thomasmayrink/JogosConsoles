@@ -3,10 +3,11 @@ public class FileB {
 	int nome;
 
 	public void methodX(int nome){
-		fileA.setName(nome);		
+		fileA.setNome(nome);		
 	}
 
 	public void methodY(){
-		FileA.open();	
+		FileA.open();
+		FileA.getNome();
 	}
 }
