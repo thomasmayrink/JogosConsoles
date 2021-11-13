@@ -1,10 +1,13 @@
 public class FileB {
 	FileA fileA;
+	int nome;
 
-	public void methodX(){
+	public void methodX(int nome) {
+		fileA.setNome(nome);		
 	}
 
-	public void methodY(){
-		FileA.open();	
+	public void methodY() {
+		fileA.open();
+		fileA.getNome();
 	}
 }
