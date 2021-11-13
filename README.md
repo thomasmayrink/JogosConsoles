@@ -1,6 +1,6 @@
 # JogosConsoles
-
-Augusto Caldeira
-Diogo Vinícius
-Gabriel Mendes
-Thomás Mayrink
+<br />Grupo:
+<br />Augusto Caldeira
+<br />Diogo Vinícius
+<br />Gabriel Mendes
+<br />Thomás Mayrink
