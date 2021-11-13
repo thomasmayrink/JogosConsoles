@@ -7,7 +7,7 @@ public class FileB {
 	}
 
 	public void methodY(){
-		FileA.open();
-		FileA.getNome();
+		fileA.open();
+		fileA.getNome();
 	}
 }
