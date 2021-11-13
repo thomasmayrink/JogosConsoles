@@ -3,4 +3,12 @@ public class FileA {
 	
 	public void open(){
 	}
+
+	public void setNome(nome){
+		this.nome = nome;
+	}
+
+	public int getNome() {
+		return this.nome;
+	}
 }
