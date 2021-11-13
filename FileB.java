@@ -5,6 +5,6 @@ public class FileB {
 	}
 
 	public void methodY(){
-		FileA.Open();	
+		FileA.open();	
 	}
 }
