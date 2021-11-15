@@ -1,6 +1,7 @@
 public class FileA {
 	int nome;
 	int idade;
+	int pontos;
 	float valor;
 	
 	public void open(){
