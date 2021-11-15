@@ -1,5 +1,7 @@
 public class FileA {
 	int nome;
+	int idade;
+	float valor;
 	
 	public void open(){
 	}
